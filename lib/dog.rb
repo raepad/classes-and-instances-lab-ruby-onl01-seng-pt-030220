@@ -18,5 +18,5 @@ end
 
  
 adele_goldberg
-alan_kay = Person.new 
+
 alan_kay
