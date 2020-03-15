@@ -6,9 +6,7 @@ class Dog
   lassie = Dog.new 
   
 end 
-fido
-snoopy 
-lassie 
+
 
 
 class Person
@@ -17,6 +15,4 @@ class Person
 end 
 
  
-adele_goldberg
 
-alan_kay
